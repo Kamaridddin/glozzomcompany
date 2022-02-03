@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "css"
+		},
+		{
+			"path": "vendors"
+		},
+		{
+			"path": "img"
+		}
+	],
+	"settings": {}
+}
